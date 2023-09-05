@@ -1,1 +1,1 @@
-su betty
+this is my readme
